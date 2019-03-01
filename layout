@@ -3,6 +3,8 @@
 <head>
 <title>Layout</title>
 </head>
+<body>
 <header>
       <img src="header.jpg" alt="header">
   </header>
+  </body>
